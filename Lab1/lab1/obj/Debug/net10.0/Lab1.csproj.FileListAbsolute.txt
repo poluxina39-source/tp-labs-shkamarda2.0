@@ -1,0 +1,15 @@
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda\Lab1\lab1\bin\Debug\net10.0\Lab1.exe
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda\Lab1\lab1\bin\Debug\net10.0\Lab1.deps.json
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda\Lab1\lab1\bin\Debug\net10.0\Lab1.runtimeconfig.json
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda\Lab1\lab1\bin\Debug\net10.0\Lab1.dll
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda\Lab1\lab1\bin\Debug\net10.0\Lab1.pdb
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda\Lab1\lab1\obj\Debug\net10.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda\Lab1\lab1\obj\Debug\net10.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda\Lab1\lab1\obj\Debug\net10.0\Lab1.AssemblyInfo.cs
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda\Lab1\lab1\obj\Debug\net10.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda\Lab1\lab1\obj\Debug\net10.0\Lab1.sourcelink.json
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda\Lab1\lab1\obj\Debug\net10.0\Lab1.dll
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda\Lab1\lab1\obj\Debug\net10.0\refint\Lab1.dll
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda\Lab1\lab1\obj\Debug\net10.0\Lab1.pdb
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda\Lab1\lab1\obj\Debug\net10.0\Lab1.genruntimeconfig.cache
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda\Lab1\lab1\obj\Debug\net10.0\ref\Lab1.dll
