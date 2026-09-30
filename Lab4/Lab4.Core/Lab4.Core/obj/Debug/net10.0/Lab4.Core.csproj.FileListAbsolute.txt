@@ -1,0 +1,12 @@
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda2.0\Lab4\Lab4.Core\Lab4.Core\bin\Debug\net10.0\Lab4.Core.deps.json
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda2.0\Lab4\Lab4.Core\Lab4.Core\bin\Debug\net10.0\Lab4.Core.dll
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda2.0\Lab4\Lab4.Core\Lab4.Core\bin\Debug\net10.0\Lab4.Core.pdb
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda2.0\Lab4\Lab4.Core\Lab4.Core\obj\Debug\net10.0\Lab4.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda2.0\Lab4\Lab4.Core\Lab4.Core\obj\Debug\net10.0\Lab4.Core.AssemblyInfoInputs.cache
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda2.0\Lab4\Lab4.Core\Lab4.Core\obj\Debug\net10.0\Lab4.Core.AssemblyInfo.cs
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda2.0\Lab4\Lab4.Core\Lab4.Core\obj\Debug\net10.0\Lab4.Core.csproj.CoreCompileInputs.cache
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda2.0\Lab4\Lab4.Core\Lab4.Core\obj\Debug\net10.0\Lab4.Core.sourcelink.json
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda2.0\Lab4\Lab4.Core\Lab4.Core\obj\Debug\net10.0\Lab4.Core.dll
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda2.0\Lab4\Lab4.Core\Lab4.Core\obj\Debug\net10.0\refint\Lab4.Core.dll
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda2.0\Lab4\Lab4.Core\Lab4.Core\obj\Debug\net10.0\Lab4.Core.pdb
+C:\Users\polux\Desktop\Учеба\3 курс\Tehnol\tp-labs-shkamarda2.0\Lab4\Lab4.Core\Lab4.Core\obj\Debug\net10.0\ref\Lab4.Core.dll
